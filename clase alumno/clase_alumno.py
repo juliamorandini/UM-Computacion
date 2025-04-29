@@ -1,5 +1,5 @@
 class Alumno:
-    def __innit__ (self, legajo, nombre, email, estado):
+    def __init__ (self, legajo, nombre, email, estado):
         self.legajo = legajo
         self.nombre = nombre
         self.email = email
