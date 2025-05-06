@@ -5,7 +5,6 @@ class testcuentabancaria(unittest.TestCase):
         cliente = 'juan'
         saldo = 0
         estado = 'activo'
-        Cuenta_bancaria
+        #Cuenta_bancaria
 
         #la clase fue muy rapida no pude terminar AAAAAAAAAAAAAA
-        

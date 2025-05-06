@@ -1,0 +1,11 @@
+def main():
+    while True:
+        accion = input('que quiere hacer S-alir, D-epositar, ')
+        if accion == 'S':
+            break
+        tipo_cuenta 
+
+    #me renedi con escribir, esta en el slack
+
+if __name__ == '__main__':
+    main()
